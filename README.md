@@ -1,5 +1,2 @@
-# DevopsLearning
-# DevopsLearning
-# DevopsLearning
-# DevopsLearning
-# DevopsLearning
+
+# ansible overview
